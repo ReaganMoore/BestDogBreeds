@@ -1,0 +1,80 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+h1 {
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: stretch;
+    font-family: serif;
+    font-size: 60px
+
+.accordion-header {
+            color: white
+    }
+}
+
+body{
+    background-color:beige;
+    text-align: center;
+    font-family: georgia, serif;
+  
+}
+
+.navbar {
+    background-color: #ffd4f3 !important!;
+}
+
+footer {
+    background-color: #ffd4f3;
+    height: 50px;
+    padding: 10px;
+    margin-top: 3% !important;
+   
+
+}
+
+carousel-item {
+    align-items: center;
+    image-orientation: center;
+    background-position: center;
+}
+
+.btn-primary {
+    background-color: #ffd4f3;
+    text-decoration-color:black !important;
+    border-image-outset:hover;
+ 
+   
+    
+}
+
+footer.blockquote-footer {
+    background-color: lightgrey;
+}
+
+.card-body {
+    background-color: lightgrey;
+    
+}
+
+.card-body {
+    align-items: center;
+    image-orientation: center ;
+}
+
+dropdown-menu {
+    background-color: aquamarine;
+}
+
+h3 {
+    text-align: left;
+    padding: 20px; 
+}
+
+.fw-bold {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+}
